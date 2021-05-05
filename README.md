@@ -6,7 +6,7 @@ These are the shared values of the betterplace.org engineering team. They exist 
 
 We are proud of the things we create, and use solid standards and best practices. At the moment those include:
 
-* Each pull request is reviewed by at least 2 developers before merging
+* Each pull request is reviewed by at least one other developer before merging
 * Each functionality is covered by unit tests (and if we find missing tests while working on a story, we add them)
 * The main steps of each user-facing feature are covered by integration tests
 * We fix bugs first
