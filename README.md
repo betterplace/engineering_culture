@@ -20,7 +20,7 @@ We are a team of people that help each other out and create great things togethe
 * We take time for code reviews and to teach others what we know
 * New approaches are discussed with the team so everybody can learn
 * When we learn something new we share it (e.g. in our bi-weekly tech talks)
-* When stay respectful in our discussions
+* We stay respectful in our discussions
 * We appreciate feedback that helps us improve, and point out and celebrate the achievements of others
 
 ## We feel responsible for our code and users
