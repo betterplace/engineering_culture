@@ -48,7 +48,7 @@ We know that in order to grow, we must allow space for experimentation and mista
 
 # Contributing
 
-All betterplace developers and engineers can create pull requests to update this document. Those PR can be edited by all of them. 
+All betterplace developers and engineers can create pull requests to update this document. Those PRs can be edited by all of them. 
 
 The PR can be merged by a simple majority vote (e.g. via 👍). Voting is 10 working days from the creation of the pull request. At least 3 people must actively upvote the request for it to be merged.
 
